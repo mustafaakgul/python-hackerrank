@@ -1,7 +1,2 @@
-pip freeze > requirements.txt to get the requirements
-
-[//]: # ( Language: markdown
-[//]: # ( Path: LICENSE
-MIT License
-
-pip install -r requirements.txt to install the requirements
+### HackerRank Solutions for Python
+This repository contains solutions for HackerRank problems with Python3
